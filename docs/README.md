@@ -27,7 +27,7 @@ This is a proposed version made by a nerdy teen; therefore, it is not particular
 ## Running the project locally
 Run the command:
 ```
-git clone https://github.com/OWelton-Rosie/wca-profile-link-shortener
+git clone https://github.com/OWelton-Rosie/SNZ-new
 ```
 
 This project has no dependencies.
