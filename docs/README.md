@@ -1,6 +1,6 @@
 ## Note: this is NOT the current SNZ website! The current SNZ website can be viewed at [https://speedcubing.nz/](https://speedcubing.nz/). 
 
-This is a proposed version made by a nerdy teen and therefore is not particularly stable!
+This is a proposed version made by a nerdy teen; therefore, it is not particularly stable!
 
 
 ## Project Structure (template from the [CubeClubs Repo](https://github.com/CubeLabsNZ/CubeClubs))
@@ -22,3 +22,12 @@ This is a proposed version made by a nerdy teen and therefore is not particularl
 └── index.html <b>Project homepage</b>
 └── sitemap.html <b>Sitemap</b>
 </pre>
+
+# Development
+## Running the project locally
+Run the command:
+```
+git clone https://github.com/OWelton-Rosie/wca-profile-link-shortener
+```
+
+This project has no dependencies.
